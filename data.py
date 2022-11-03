@@ -1,3 +1,5 @@
+# This script provides a function to read MRC files.
+
 import numpy as np
 
 def read_tomogram(fn, domean=True):    

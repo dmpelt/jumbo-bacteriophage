@@ -1,3 +1,5 @@
+# This script extracts ROIs around manually annotated fibers, for use in later training.
+
 import numpy as np
 import skimage.measure as sm
 import data

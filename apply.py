@@ -1,3 +1,5 @@
+# This script applies a trained network to full tomograms.
+
 import tifffile
 import numpy as np
 import msdnet

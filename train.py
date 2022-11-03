@@ -1,3 +1,5 @@
+# This script trains a network using the manually annoted fibers.
+
 # Import code
 import msdnet
 import tifffile

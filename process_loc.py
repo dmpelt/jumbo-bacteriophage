@@ -1,3 +1,5 @@
+# This script extracts ROIs around manually annotated phage locations, and rotates them all in the same orientation.
+
 import tifffile
 import numpy as np
 from scipy.interpolate import RegularGridInterpolator
